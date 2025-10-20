@@ -40,4 +40,4 @@ xo-gegen-AI/
 
 HTML5, 
 CSS3, 
-JavaScript (ES6
+JavaScript (ES6)
