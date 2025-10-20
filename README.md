@@ -21,13 +21,13 @@ xo-gegen-AI/
 
 ````
 
-## Features  
-- Player vs AI mode  
-- Responsive design for desktop & mobile  
-- Game state management (win/draw detection, restart)  
-- Clean UI and interactive experience
+##  Technologies
 
-## How to Try It  
+HTML5, 
+CSS3, 
+JavaScript (ES6)
+
+## How to Run It locally  
 1. Clone the repository  
    ```bash
    git clone https://github.com/SamehaSalem87/xo-gegen-AI.git
@@ -36,8 +36,4 @@ xo-gegen-AI/
 
 4. Enjoy a game of Tic-Tac-Toe against an AI opponent!
 
-##  Built With
 
-HTML5, 
-CSS3, 
-JavaScript (ES6)
