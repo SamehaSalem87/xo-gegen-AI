@@ -1,38 +1,43 @@
-# Tic-Tac-Toe vs AI
+## XO gegen AI  
+**A Tic-Tac-Toe game with AI opponent – Sameha Salem**
 
-An interactive Tic-Tac-Toe game where you play against a smart computer opponent powered by the **Minimax Algorithm**.  
-The AI is designed to play perfectly — almost impossible to beat!
+## 🕹️ Project Overview  
+This repository hosts a browser-based Tic-Tac-Toe game where you play against an AI.  
+Built with HTML, CSS and JavaScript.  
+The AI opponent gives a fun challenge and showcases basic game logic and user interaction.
 
----
+## 📁 Project Structure  
+```
 
-## Features
+xo-gegen-AI/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── img/
+│   └── … (icons, board graphics)
+└── README.md
 
-- **Player vs AI** mode  
-- AI uses the **Minimax algorithm** (plays optimally)  
-- Displays **Win**, **Lose**, and **Draw** states  
-- Clean and modern UI with beautiful colors  
-- **Reset / Restart** button available  
-- Easy to extend (difficulty levels, multiplayer, etc.)
+````
 
----
+## 🎯 Features  
+- Player vs AI mode  
+- Responsive design for desktop & mobile  
+- Game state management (win/draw detection, restart)  
+- Clean UI and interactive experience
 
-## Technologies Used
+## 🚀 How to Try It  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/SamehaSalem87/xo-gegen-AI.git
+2. Open index.html in your browser, or
+3.  Visit the live demo: https://samehasalem87.github.io/xo-gegen-AI/
 
-- **HTML5**  
-- **CSS3** (Flexbox / Grid layout)  
-- **JavaScript (ES6)** — Game logic & AI intelligence
+4. Enjoy a game of Tic-Tac-Toe against an AI opponent!
 
----
+##  Built With
 
-##  Installation & Run Locally
-
-**Option A – Quick Start (no server needed):**  
-Simply open the `index.html` file in your browser (double-click).
-
-**Option B – Recommended (Live Server / Localhost):**  
-To avoid CORS or fetch issues and enable hot reload.
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR-USERNAME/tic-tac-toe-ai.git
-cd tic-tac-toe-ai
+HTML5
+CSS3
+JavaScript (ES6
